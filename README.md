@@ -13,3 +13,8 @@ https://user-images.githubusercontent.com/65235028/154851888-b95d02e2-b14c-4d38-
  Python3 : https://www.python.org/downloads/ <br>
  OpenCV :  `pip install opencv-python`
  
+ 
+ >TODO
+ * Adding background isolation
+ * Reducing the noice
+ * Making a GUI (maybe)
